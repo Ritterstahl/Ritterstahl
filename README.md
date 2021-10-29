@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ritterstahl
 - 👀 I’m interested in ... anything on the web
 - 🌱 I’m currently learning ... just HOW MUCH STUFF there is on the web
-- 💞️ I’m looking to collaborate on ... anything, I guess
-- 📫 How to reach me ... message me via GitHub why not?
+- 💞️ I’m looking to collaborate on ... anything - but let's start simple
+- 📫 How to reach me ... message me via GitHub, why not
 
 <!---
 Ritterstahl/Ritterstahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
