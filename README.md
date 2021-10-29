@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritterstahl
 - 👀 I’m interested in ... anything on the web
 - 🌱 I’m currently learning ... PHP, jQuery, HTML, CSS, Angular ... and more
-- 💞️ I’m looking to collaborate on ... anything - but let's start simple
+- 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ... message me via GitHub, why not
 
 <!---
